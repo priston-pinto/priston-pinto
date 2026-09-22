@@ -1,32 +1,30 @@
-<!-- ========================================================= --> <!-- PRISTON PINTO • PROFILE --> <!-- ========================================================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0b1026,60:111827,100:00f5ff&height=220&section=header&text=PRISTON%20PINTO&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MCA%20STUDENT%20%7C%20DEVELOPER%20%7C%20BUILDER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+Priston+Pinto...;System+Status%3A+ONLINE+%F0%9F%9F%A2;MCA+Student+%F0%9F%8E%93;Learning+Python+%F0%9F%90%8D;Building+Web+Projects+%F0%9F%8C%90;Exploring+SQL+%F0%9F%97%84%EF%B8%8F;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Create+%F0%9F%9A%80" /> <br> <img src="https://komarev.com/ghpvc/?username=priston-pinto&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/priston-pinto?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=050816" /> <img src="https://img.shields.io/github/stars/priston-pinto?label=STARS&style=for-the-badge&color=f59e0b&labelColor=050816" /> </div>
-⚡ SYSTEM STATUS
-╔══════════════════════════════════════════════════════════════╗
-║                     SYSTEM STATUS                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   USER        : PRISTON PINTO                               ║
-║   ROLE        : MCA STUDENT                                 ║
-║   STATUS      : ONLINE 🟢                                   ║
-║   MODE        : LEARNING & BUILDING                         ║
-║                                                              ║
-║   CURRENTLY LEARNING                                        ║
-║      ├── 🐍 Python                                          ║
-║      ├── 🌐 HTML                                             ║
-║      ├── 🎨 CSS                                              ║
-║      └── 🗄️ SQL                                              ║
-║                                                              ║
-║   MISSION     : LEARN → BUILD → IMPROVE → CREATE            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
+<div align="center"> <!-- ═══════════════════════════════════════════════════════════ --> <!-- ANIMATED HERO --> <!-- ═══════════════════════════════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:071a2f,50:0f172a,75:312e81,100:06b6d4&height=280&section=header&text=PRISTON%20PINTO&fontSize=62&fontColor=00F5FF&fontAlignY=38&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20MCA%20STUDENT&descAlignY=58&descSize=18&animation=twinkling"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%3E+INITIALIZING+PRISTON.PINTO...;%3E+SYSTEM_STATUS%3A+ONLINE+%F0%9F%9F%A2;%3E+LOADING+DEVELOPER+PROFILE...;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+FAIL+%E2%86%92+IMPROVE+%E2%86%92+CREATE+%F0%9F%9A%80"/> <br> <img src="https://komarev.com/ghpvc/?username=priston-pinto&style=for-the-badge&color=00F5FF&labelColor=020617&label=VISITORS"/> <img src="https://img.shields.io/github/followers/priston-pinto?style=for-the-badge&color=7C3AED&labelColor=020617&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/priston-pinto?style=for-the-badge&color=F59E0B&labelColor=020617&label=STARS"/> </div> <br> <!-- ═══════════════════════════════════════════════════════════ --> <!-- ANIMATED MATRIX BACKGROUND --> <!-- ═══════════════════════════════════════════════════════════ --> <div align="center"> <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284094-4d6d3b4b-7f5a-4c6e-a6f7-0e5e3f2b8d2c.gif"/> </div> <br>
+01 // SYSTEM_BOOT
 <div align="center">
-🟢 SYSTEM ONLINE
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-00F5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=050816" /> <img src="https://img.shields.io/badge/WEB-BUILDING-7C3AED?style=for-the-badge&logo=html5&logoColor=white&labelColor=050816" /> <img src="https://img.shields.io/badge/SQL-EXPLORING-00D084?style=for-the-badge&logo=mysql&logoColor=white&labelColor=050816" /> </div>
-👋 WHO_AM_I()
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                    ██████╗ ███████╗██╗   ██╗                      ║
+║                    ██╔══██╗██╔════╝██║   ██║                      ║
+║                    ██████╔╝█████╗  ██║   ██║                      ║
+║                    ██╔═══╝ ██╔══╝  ╚██╗ ██╔╝                      ║
+║                    ██║     ███████╗ ╚████╔╝                       ║
+║                    ╚═╝     ╚══════╝  ╚═══╝                        ║
+║                                                                    ║
+║              P R I S T O N   P I N T O                            ║
+║                                                                    ║
+║                  SYSTEM STATUS : 🟢 ONLINE                        ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+</div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=%5BBOOT%5D+Loading+developer+profile...;%5BOK%5D+MCA+Student+detected;%5BOK%5D+Python+module+loaded;%5BOK%5D+Web+module+loaded;%5BOK%5D+SQL+module+loaded;%5BREADY%5D+Future+projects+awaiting..."/> </div>
+02 // WHO_AM_I
+<div align="center"> <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65"/> </div>
 class PristonPinto:
 
     name = "Priston Pinto"
     role = "MCA Student"
+
+    status = "ONLINE 🟢"
 
     currently_learning = [
         "Python",
@@ -42,245 +40,109 @@ class PristonPinto:
         "Building Projects"
     ]
 
-    mission = "Learn → Build → Improve → Create"
+    mission = [
+        "Learn",
+        "Build",
+        "Improve",
+        "Create"
+    ]
 
-    def mindset(self):
-        return "Keep learning. Keep building. Keep improving."
+    mindset = "Build first. Improve forever."
 
-
-💡 I don't just want to learn technologies — I want to use them to build things.
-
-🧠 DEVELOPER PROFILE
 <div align="center">
-🧩 AREA	🚀 CURRENT STATE
-🐍 Python	████████████████░░░░
-🌐 Web Development	██████████████░░░░░░
-🗄️ SQL	████████████░░░░░░░░
-🚀 Projects	██████████░░░░░░░░░░
-💻 Software Engineering	████████░░░░░░░░░░░░
-</div>
-⚡ TECH_STACK
+>>> DEVELOPER DETECTED
+<img src="https://img.shields.io/badge/MODE-LEARNING-00F5FF?style=for-the-badge&labelColor=020617"/> <img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=020617"/> <img src="https://img.shields.io/badge/MISSION-CREATE-06B6D4?style=for-the-badge&labelColor=020617"/> </div>
+03 // DIGITAL_IDENTITY
 <div align="center">
-🐍 PROGRAMMING
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+                 ╔════════════════════════════╗
+                 ║      DEVELOPER CORE       ║
+                 ╠════════════════════════════╣
+                 ║                            ║
+                 ║   🧑‍💻 PRISTON PINTO       ║
+                 ║                            ║
+                 ║   🎓 MCA STUDENT          ║
+                 ║                            ║
+                 ║   🐍 PYTHON               ║
+                 ║   🌐 WEB                  ║
+                 ║   🗄️ SQL                  ║
+                 ║                            ║
+                 ║   ⚡ BUILDING             ║
+                 ║   🧠 LEARNING             ║
+                 ║   🚀 CREATING             ║
+                 ║                            ║
+                 ╚════════════════════════════╝
+
+</div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2200&pause=800&color=00D084&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+Priston+Pinto;%24+role;%3E+MCA+Student;%24+mission;%3E+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Create"/> </div>
+04 // TECH_MATRIX
+<div align="center">
+🐍 PYTHON
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/> <br>
+
+████████████████░░░░
 
 <br><br>
 
 🌐 WEB DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/> <br>
+
+██████████████░░░░░░
 
 <br><br>
 
 🗄️ DATABASE
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" /> </div>
-🚀 CURRENT_MISSION
-<div align="center">
-                    ╭──────────────────────╮
-                    │   CURRENT MISSION    │
-                    ╰──────────┬───────────╯
-                               │
-               ┌───────────────┼───────────────┐
-               │               │               │
-               ▼               ▼               ▼
-        ┌────────────┐  ┌────────────┐  ┌────────────┐
-        │  PYTHON 🐍 │  │   WEB 🌐   │  │   SQL 🗄️   │
-        │            │  │            │  │            │
-        │  LEARN     │  │   BUILD    │  │  EXPLORE   │
-        └──────┬─────┘  └──────┬─────┘  └──────┬─────┘
-               │               │               │
-               └───────────────┼───────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   FUTURE BUILDS 🚀  │
-                    └─────────────────────┘
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/> <br>
+
+████████████░░░░░░░░
 
 </div>
-📚 LEARNING_PATH
-<div align="center">
-                         🎓 MCA
-                           │
-                           ▼
-                     🐍 PYTHON
-                           │
-                           ▼
-                    🌐 HTML + CSS
-                           │
-                           ▼
-                      🗄️ SQL
-                           │
-                           ▼
-                    🚀 PROJECTS
-                           │
-                           ▼
-                  💻 SOFTWARE DEV
-                           │
-                           ▼
-                    🌎 REAL WORLD
+05 // CURRENT_MISSION
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,24&height=70&section=header&text=MISSION%20CONTROL&fontSize=28&fontColor=00F5FF&animation=fadeIn"/> <br>
+                         ┌─────────────────┐
+                         │  MISSION START   │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │       🐍 PYTHON          │
+                    │                          │
+                    │     LEARN + PRACTICE     │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │        🌐 WEB            │
+                    │                          │
+                    │      BUILD + DESIGN      │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │        🗄️ SQL            │
+                    │                          │
+                    │     DATA + QUERIES       │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │       🚀 PROJECTS        │
+                    │                          │
+                    │       BUILD + SHIP       │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │     💻 SOFTWARE DEV      │
+                    └──────────────────────────┘
 
 </div>
-🔥 WHAT_I_AM_BUILDING
-🐍 Python Lab
+06 // LEARNING_ENGINE
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=%5B01%5D+MCA;%5B02%5D+PYTHON;%5B03%5D+HTML+%2B+CSS;%5B04%5D+SQL;%5B05%5D+PROJECTS;%5B06%5D+SOFTWARE+DEVELOPMENT"/>
 
-Learning programming fundamentals, functions, data structures and problem solving.
+<br><br>
 
-PYTHON LOGIC DSA PROBLEM SOLVING
-
-🌐 Web Lab
-
-Building websites using HTML and CSS while exploring modern web development.
-
-HTML CSS UI WEB DEVELOPMENT
-
-🗄️ Database Lab
-
-Learning databases, queries and data management.
-
-SQL DATABASES QUERIES DATA
-
-🚀 Project Lab
-
-Turning everything I learn into practical projects.
-
-BUILD → TEST → BREAK → FIX → IMPROVE
-
-🛰️ PROJECTS
-<div align="center">
-💪 FITNESS TRACKER
-
-A project focused on tracking fitness-related information.
-
-Stack
-
-JavaScript Web Development
-
-🍳 RECIPE
-
-A project for working with recipes and web development concepts.
-
-Focus
-
-Web UI Projects
-
-🏋️ FITNESS
-
-Another project exploring fitness-related functionality.
-
-Focus
-
-Development Practice Building
-
-💻 PRISTON-PINTO
-
-The profile repository powering this developer dashboard.
-
-Mission
-
-LEARN → BUILD → CREATE
-
-</div>
-📊 GITHUB_ANALYTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priston-pinto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priston-pinto&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" height="180"/> </div>
-🔥 CONTRIBUTION_ACTIVITY
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priston-pinto&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" /> </div> <br> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priston-pinto&bg_color=050816&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/> </div>
-🎯 MY_GOALS
-PYTHON
-████████████████░░░░  80%
-
-WEB DEVELOPMENT
-██████████████░░░░░░  70%
-
-SQL
-████████████░░░░░░░░  60%
-
-PROJECTS
-██████████░░░░░░░░░░  50%
-
-SOFTWARE ENGINEERING
-████████░░░░░░░░░░░░  40%
-
-
-These are personal learning-progress indicators, not formal skill ratings.
-
-🧭 THE_PLAN
-<div align="center">
-        ┌─────────┐
-        │  LEARN  │
-        └────┬────┘
-             │
-             ▼
-        ┌──────────┐
-        │ PRACTICE │
-        └────┬─────┘
-             │
-             ▼
-        ┌─────────┐
-        │  BUILD  │
-        └────┬────┘
-             │
-             ▼
-        ┌─────────┐
-        │  FAIL   │
-        └────┬────┘
-             │
-             ▼
-        ┌──────────┐
-        │ IMPROVE  │
-        └────┬─────┘
-             │
-             ▼
-        ┌─────────┐
-        │ REPEAT  │
-        └────┬────┘
-             │
-             └───────────────► 🚀
-
-</div>
-💡 DEVELOPER_MINDSET
-<div align="center">
-💻 CODE
-
-Writing programs is only the beginning.
-
-🧠 THINK
-
-Understand the problem before trying to solve it.
-
-🛠️ BUILD
-
-Turn ideas into working projects.
-
-🔥 FAIL
-
-Mistakes are part of the development process.
-
-📚 LEARN
-
-Every project is another opportunity to improve.
-
-🚀 CREATE
-
-Keep turning knowledge into something useful.
-
-</div>
-🌐 CONNECT_WITH_ME
-<div align="center"> <a href="https://github.com/priston-pinto"> <img src="https://img.shields.io/badge/GitHub-PRISTON--PINTO-181717?style=for-the-badge&logo=github" /> </a> </div>
-🟢 SYSTEM_MESSAGE
-<div align="center">
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       SYSTEM MESSAGE : PROFILE LOADED               ║
-║                                                      ║
-║       STATUS  : ONLINE 🟢                           ║
-║       MODE    : LEARNING                            ║
-║       MISSION : BUILD SOMETHING GREAT 🚀            ║
-║                                                      ║
-║       LEARN → BUILD → IMPROVE → CREATE              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-
-⭐ Thanks for visiting my profile!
-
-Keep learning. Keep building. Keep creating. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7c3aed,100:050816&height=120&section=footer&animation=twinkling" width="100%"/> </div>
+             🎓 MCA
+               │
+               ▼
+        ┌─────────────┐
+        │  🐍 PYTHON  │
+        └──────┬──────┘
